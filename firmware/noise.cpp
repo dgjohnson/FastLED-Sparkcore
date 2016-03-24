@@ -1,5 +1,5 @@
 #define FASTLED_INTERNAL
-#include "FastLED.h"
+#include "FastLEDSmartMatrix.h"
 
 #ifdef FASTLED_AVR
 #include <avr/pgmspace.h>

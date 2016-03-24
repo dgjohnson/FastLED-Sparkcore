@@ -1,7 +1,7 @@
 #ifndef __INC_FASTSPI_BITBANG_H
 #define __INC_FASTSPI_BITBANG_H
 
-#include "FastLED.h"
+#include "FastLEDSmartMatrix.h"
 
 #include "delay.h"
 

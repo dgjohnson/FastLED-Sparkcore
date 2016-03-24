@@ -5,7 +5,7 @@
 
 #include <math.h>
 
-#include "FastLED.h"
+#include "FastLEDSmartMatrix.h"
 
 FASTLED_NAMESPACE_BEGIN
 

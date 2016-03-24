@@ -41,7 +41,7 @@ If you need help with using the library, please consider going to the google+ co
 
 How quickly can you get up and running with the library?  Here's a simple blink program:
 
-	#include "FastLED.h"
+	#include "FastLEDSmartMatrix.h"
 	#define NUM_LEDS 60
 	CRGB leds[NUM_LEDS];
 	void setup() { FastLED.addLeds<NEOPIXEL, 6>(leds, NUM_LEDS); }

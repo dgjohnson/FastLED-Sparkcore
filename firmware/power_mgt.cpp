@@ -1,5 +1,5 @@
 #define FASTLED_INTERNAL
-#include "FastLED.h"
+#include "FastLEDSmartMatrix.h"
 #include "power_mgt.h"
 
 FASTLED_NAMESPACE_BEGIN
